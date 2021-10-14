@@ -1,0 +1,17 @@
+td{
+text-align: center;
+}
+th{
+    background: linear-gradient(to right, rgb(255, 241, 39),rgb(228, 15, 79),green);
+} 
+table{
+    background-color: antiquewhite  ;
+    margin:auto;
+    width: 1000px;
+    height: 500px;
+    font-size: 29px;
+    
+}   
+body{
+    background-image: url(https://look.com.ua/pic/201706/1920x1080/look.com.ua-220120.jpg);
+}   
